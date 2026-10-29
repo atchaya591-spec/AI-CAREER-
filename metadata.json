@@ -1,0 +1,8 @@
+{
+  "name": "AI Enhanced Career Guidance System",
+  "description": "Production-grade AI-Enhanced Career Guidance System mobile application with multi-factor RIASEC assessments, Gemini AI career copilot, skill gap analysis, personalized roadmaps, and complete Android Studio Java/XML source implementation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
